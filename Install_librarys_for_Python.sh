@@ -4,7 +4,9 @@
 
 echo "Instalando librerias Python:"
 
-pip install numpy sympy pandas pylatex pyinstaller einsteinpy matplotlib scikit-learn scipy
+sudo pacman -S python-numpy python-sympy python-pandas  python-matplotlib python-scikit-learn python-scipy
+
+pip install  pylatex pyinstaller einsteinpy 
 
 clear
 
