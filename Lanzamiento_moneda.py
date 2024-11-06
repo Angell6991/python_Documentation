@@ -5,7 +5,7 @@ import random
 os.system('clear')
 
 x,C,S   =   0,0,0
-l       =   float(input("lanzamientos de la moneda\n"))
+l       =   int(input("lanzamientos de la moneda\n"))
 
 while ( x < l ):
     R   =   ((random.randint(0,l))%2)+1
