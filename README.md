@@ -3,7 +3,7 @@
 
 Using pacman: 
 ```sh
-sudo pacman -S tk python-matplotlib python-numpy python-distutils-extra python-sympy python-pandas python-pillow python-scikit-learn python-scipy
+sudo pacman -S tk python-matplotlib python-numpy python-distutils-extra python-sympy python-pandas python-pillow python-scikit-learn python-scipy python-pyfiglet
 ```
 
 Using pip:
